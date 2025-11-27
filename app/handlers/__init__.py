@@ -1,6 +1,5 @@
-from start import router
+from .start import router
 
 routers = [
     router,
-
 ]
